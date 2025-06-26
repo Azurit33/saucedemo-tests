@@ -30,12 +30,12 @@ npm install
 
 ### Run tests in Firefox:
 
-```bash
+bash
 npm run test:firefox
 
 ### Run tests in MS Edge:
 
-```bash
+bash
 npm run test:edge
 
 ---
