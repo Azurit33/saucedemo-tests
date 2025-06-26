@@ -19,10 +19,10 @@ This project contains automated UI tests for the [SauceDemo](https://www.saucede
 
 Clone the repository and install dependencies:
 
-bash
-git clone <your-repo-url>
-cd saucedemo-tests
-npm install
+- bash
+- git clone <your-repo-url>
+- cd saucedemo-tests
+- npm install
 
 ---
 
