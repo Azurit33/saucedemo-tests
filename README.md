@@ -62,3 +62,9 @@ npm run allure:generate
 - Chai
 - Allure Reporter
 - Microsoft Edge & Firefox browsers
+
+---
+
+## Author
+
+Created by Dmytro Liashenko as part of a test automation assignment.
